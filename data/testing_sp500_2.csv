@@ -1,0 +1,101 @@
+,Name,Symbol,result,ratio_title,ratio_ticker,ratio_summary,ratio_total
+91,Advanced Micro Devices Inc,AMD,AMD,100,0,600,700
+50,Salesforce.Com Inc,CRM,CRM,87,0,261,348
+39,Morgan Stanley,MS,MS,100,0,700,800
+477,DXC Technology Company,DXC,DXC,100,0,700,800
+453,Huntington Ingalls Industries Inc,HII,HII,100,0,1800,1900
+28,T Mobile US Inc,TMUS,TMUS,93,0,0,93
+157,Roper Technologies Inc,ROP,ROP,100,0,900,1000
+148,Marriott International Inc,MAR,MAR,92,0,2100,2192
+183,Capital One Financial Corp,COF,COF,100,0,2700,2800
+149,Synopsys Inc,SNPS,SNPS,100,0,200,300
+436,Dexcom Inc,DXCM,DXCM,100,0,800,900
+24,Mcdonalds Corp,MCD,MCD,100,0,300,400
+438,Regency Centers Corporation,REG,REG,100,0,700,800
+162,Aflac Inc,AFL,AFL,100,0,500,600
+123,Sherwin Williams,SHW,SHW,100,0,388,488
+63,Gilead Sciences Inc,GILD,GILD,100,0,900,1000
+180,NXP Semiconductors Nv,NXPI,NXPI,100,0,1100,1200
+411,Snap On Inc,SNA,SNPO,93,0,500,593
+343,Molina Healthcare Inc,MOH,MOH,100,0,300,400
+138,Valero Energy Corp,VLO,EGY,85,0,400,485
+109,Colgate-Palmolive,CL,CL,97,0,200,297
+285,DTE Energy,DTE,DTE,100,0,500,600
+258,Ulta Beauty Inc,ULTA,ULTA,100,0,2500,2600
+57,Boeing,BA,BA,100,0,300,400
+95,Vertex Pharmaceuticals Inc,VRTX,VERX,100,0,200,300
+468,NRG Energy Inc,NRG,NRG,100,0,1500,1600
+94,Schlumberger Nv,SLB,SLB,0,0,200,200
+489,Starbucks Corp,SBUX,SBUX,100,0,400,500
+460,F5 Networks Inc,FFIV,FFIV,0,0,1100,1100
+93,Target Corp,TGT,TGT,100,0,400,500
+46,Honeywell International Inc,HON,HON,100,0,500,600
+225,Enphase Energy Inc,ENPH,ENPH,100,0,700,800
+77,Paypal Holdings Inc,PYPL,PYPL,100,0,500,600
+44,Raytheon Technologies Corporation,RTX,RTX,100,0,1100,1200
+276,Genuine Parts,GPC,GPC,100,0,700,800
+496,"Elevance Health, Inc.",ELV,ELV,100,0,1100,1200
+68,Automatic Data Processing Inc,ADP,ADP,100,0,600,700
+106,US Bancorp,USB,TBBK,100,0,300,400
+327,Garmin Ltd,GRMN,GRMN,100,0,400,500
+464,Davita Inc,DVA,DVA,100,0,400,500
+97,EOG Resources Inc,EOG,EOG,100,0,700,800
+249,Verisk Analytics Inc,VRSK,VRSK,100,0,300,400
+241,Welltower Inc,WELL,WELL,100,0,195,295
+111,Fiserv Inc,FISV,FISV,100,0,100,200
+70,Chubb Ltd,CB,CB,100,0,400,500
+171,Amazon.Com Inc.,AMZN,AMZN,0,0,200,200
+187,"IQVIA Holdings, Inc.",IQV,IQV,100,0,300,400
+69,American Tower Corporation,AMT,AMT,88,0,700,788
+65,Blackrock Inc,BLK,BLK,100,0,200,300
+282,Fortive Corp,FTV,FTV,100,0,200,300
+181,Devon Energy Corp,DVN,DTE,82,0,400,482
+328,CMS Energy Corp,CMS,CMS,100,0,300,400
+358,MGM Resorts International,MGM,MGM,100,0,3600,3700
+367,First Solar Inc,FSLR,FSLR,100,0,1500,1600
+235,Rockwell Automation Inc,ROK,ROK,100,0,700,800
+43,United Parcel Service Inc Class B,UPS,UPS,91,0,2200,2291
+492,Willis Towers Watson Public Limited Company,WTW,WTW,85,0,5000,5085
+479,Generac Holdings Inc,GNRC,GNRC,100,0,100,200
+96,Servicenow Inc,NOW,NOW,100,0,287,387
+280,Arch Capital Group Ltd,ACGL,ACGL,100,0,600,700
+337,Incyte Corp,INCY,INCY,100,0,100,200
+360,"NVR, Inc.",NVR,NVR,100,100,200,400
+306,Ansys Inc,ANSS,ANSS,100,89,300,489
+169,Motorola Solutions Inc,MSI,MSI,100,0,1300,1400
+412,Take Two Interactive Software Inc,TTWO,TTWO,100,0,1700,1800
+105,General Dynamics Corp,GD,GD,100,0,700,800
+272,Diamondback Energy Inc,FANG,FANG,100,0,700,800
+239,HP Inc,HPQ,HPQ,100,0,400,500
+229,Illumina Inc,ILMN,ILMN,100,0,100,200
+484,Norwegian Cruise Line Holdings Ltd,NCLH,NCLH,100,0,2400,2500
+430,Camden Property Trust,CPT,CPT,100,0,1200,1300
+356,Keycorp,KEY,KEY,0,0,200,200
+325,Westinghouse Air Brake Technologies,WAB,WAB,100,0,1000,1100
+415,EQT Corporation,EQT,EQT,100,100,100,300
+75,Citigroup Inc,C,C,100,0,200,300
+48,AT&T Inc.,T,T,100,0,700,800
+2,Johnson & Johnson,JNJ,JNJ,100,0,486,586
+9,Mastercard Inc Class A,MA,MA,100,0,300,400
+129,Intercontinental Exchange Inc,ICE,ICE,100,0,700,800
+369,FMC Corp,FMC,FMC,100,100,200,400
+12,Home Depot Inc,HD,HD,100,0,1200,1300
+130,Alphabet Inc Class A,GOOGL,GOOGL,100,0,100,200
+354,Howmet Aerospace Inc.,HWM,HWM,100,0,300,400
+89,Regeneron Pharmaceuticals Inc,REGN,REGN,100,0,100,200
+203,Prudential Financial Inc,PRU,PRU,100,0,700,800
+277,Firstenergy Corp,FE,FE,100,0,200,300
+301,Martin Marietta Materials Inc,MLM,MLM,100,0,600,700
+440,Wynn Resorts Ltd,WYNN,WYNN,100,0,700,800
+413,Pool Corp,POOL,POOL,100,100,200,400
+266,Albemarle Corp,ALB,ALB,100,0,200,300
+259,United Rentals Inc,URI,URI,100,0,1300,1400
+379,Atmos Energy Corp,ATO,ATO,100,0,700,800
+71,"TJX Companies, Inc.",TJX,TJX,100,0,800,900
+317,Conagra Brands Inc,CAG,CAG,100,0,1300,1400
+21,Thermo Fisher Scientific Inc,TMO,TMO,100,0,600,700
+339,"Mid-America Apartment Communities, Inc",MAA,MAA,98,0,0,98
+208,Realty Income Corporation,O,O,100,0,500,600
+346,AES Corp,AES,AES,100,100,300,500
+326,Teledyne Technologies Inc,TDY,TDY,100,0,700,800
+393,SVB Financial Group,SIVB,SIVB,100,0,2400,2500
